@@ -3,7 +3,7 @@ import joblib
 import streamlit as st
 st.set_page_config(layout='wide')
 from PIL import Image
-import cv2
+
 from streamlit_drawable_canvas import st_canvas
 
 knn=joblib.load('knn_model.pkl')
