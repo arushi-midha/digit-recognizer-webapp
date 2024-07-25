@@ -4,4 +4,5 @@ numpy
 pandas
 scikit-learn
 opencv-python
+cv2
 streamlit_drawable_canvas
